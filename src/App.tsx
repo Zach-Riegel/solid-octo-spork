@@ -51,12 +51,10 @@ type TaskDocument = {
 };
 
 function App() {
-  const foo: string = 2;
-
   const doc = useState(() =>
-    automerge.init<TaskDocument>("someId", {
+    automerge.from({
       tasks: [],
-    }),
+    } as TaskDocument),
   );
 
   return (
