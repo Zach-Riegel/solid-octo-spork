@@ -2,3 +2,15 @@
     width: 100vw;
     height: 100vh;
 }
+
+
+
+* {
+    box-sizing: border-box;
+
+    --red: #ff002b;
+    --green: #21b300;
+    --background: #0d1016;
+    --white: #f1f1f1;
+
+}
