@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/solid-octo-spork/static/css/main.9fabbac4.css",
-    "main.js": "/solid-octo-spork/static/js/main.6c2dc9e2.js",
+    "main.js": "/solid-octo-spork/static/js/main.73105928.js",
     "module.wasm": "/solid-octo-spork/94c6f07a6d0b013aef90.module.wasm",
     "index.html": "/solid-octo-spork/index.html",
     "main.9fabbac4.css.map": "/solid-octo-spork/static/css/main.9fabbac4.css.map",
-    "main.6c2dc9e2.js.map": "/solid-octo-spork/static/js/main.6c2dc9e2.js.map"
+    "main.73105928.js.map": "/solid-octo-spork/static/js/main.73105928.js.map"
   },
   "entrypoints": [
     "static/css/main.9fabbac4.css",
-    "static/js/main.6c2dc9e2.js"
+    "static/js/main.73105928.js"
   ]
 }

@@ -14,6 +14,7 @@ const Checkbox = styled.input`
 `;
 
 const Input = styled.input`
+  width: 100%;
   font-size: 14px;
   line-height: 24px;
   font-family: Monocraft;
