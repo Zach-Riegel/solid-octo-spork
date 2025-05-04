@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/solid-octo-spork/static/css/main.f855e6bc.css",
-    "main.js": "/solid-octo-spork/static/js/main.432e117f.js",
-    "static/js/453.6dc36bc0.chunk.js": "/solid-octo-spork/static/js/453.6dc36bc0.chunk.js",
-    "static/media/logo.svg": "/solid-octo-spork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/solid-octo-spork/static/css/main.9fabbac4.css",
+    "main.js": "/solid-octo-spork/static/js/main.6c2dc9e2.js",
+    "module.wasm": "/solid-octo-spork/94c6f07a6d0b013aef90.module.wasm",
     "index.html": "/solid-octo-spork/index.html",
-    "main.f855e6bc.css.map": "/solid-octo-spork/static/css/main.f855e6bc.css.map",
-    "main.432e117f.js.map": "/solid-octo-spork/static/js/main.432e117f.js.map",
-    "453.6dc36bc0.chunk.js.map": "/solid-octo-spork/static/js/453.6dc36bc0.chunk.js.map"
+    "main.9fabbac4.css.map": "/solid-octo-spork/static/css/main.9fabbac4.css.map",
+    "main.6c2dc9e2.js.map": "/solid-octo-spork/static/js/main.6c2dc9e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.432e117f.js"
+    "static/css/main.9fabbac4.css",
+    "static/js/main.6c2dc9e2.js"
   ]
 }
