@@ -24,6 +24,7 @@ const Container = styled.div`
       1fr
     );
   grid-template-rows: max-content 1fr;
+  overflow-y: auto;
 `;
 
 const Header = styled.div`
@@ -42,6 +43,7 @@ const MainColumn = styled.div`
   display: flex;
   flex-direction: column;
   gap: 10px;
+  padding: 0 0 200px 0;
 `;
 
 const Button = styled.button`
@@ -50,6 +52,7 @@ const Button = styled.button`
   border-radius: 8px;
   height: 40px;
   width: 100%;
+  cursor: pointer;
 `;
 
 const Spin = keyframes`

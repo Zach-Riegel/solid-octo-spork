@@ -108,6 +108,7 @@ const useSyncedDocument = (
             doc.current = automerge.load(
               base64.base64ToBytes(messageObj.document64),
             );
+            window.clearTimeout(initTimeout.current);
             break;
           }
           case "requestUpdate": {
