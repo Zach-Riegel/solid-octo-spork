@@ -53,6 +53,8 @@ const Button = styled.button`
   height: 40px;
   width: 100%;
   cursor: pointer;
+  border: 0;
+  color: var(--background);
 `;
 
 const Spin = keyframes`
